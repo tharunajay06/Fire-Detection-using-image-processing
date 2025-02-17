@@ -59,7 +59,7 @@ exploring the application of image processing in fire
 detection, highlighting its significance in enhancing fire
 safety measures
 ## Getting Started
-To get started with the project, follow the and refer to the [Document](https://drive.google.com/file/d/1snsH_EQ5PaEDRiXepxFsntCypIAPunFJ/view?usp=drivesdk )
+To get started with the project, follow the and refer to the [Document](https://drive.google.com/file/d/1B130kr6iesRF9Nlo1R6vHn6sdVNdc4q4/view?usp=drivesdk)
 ## Dataset You Can Use
 -[data-1](https://universe.roboflow.com/material-identification/garbage-classification-3/browse?queryText=&pageSize=50&startingIndex=0&browseQuery)
 
